@@ -1,2 +1,10 @@
-# a11y-basics-workshop
-Documentation &amp; code examples for a web accessibility basics workshop (German)
+# Barrierefreiheit im Web
+<img src="https://cdn.rawgit.com/a11yclub/a11y-teaser-event/master/public/img/a11yclub-logo.svg" alt="Accessibility Club Logo" align="right"/>
+### Grundlagen-Workshop für Web-Entwickler
+
+> Accessibility Club / tollwerk GmbH<br/>
+> Dokumentation & Beispiele (Deutsch)
+
+___
+
+Die Workshop-Dokumentation ist über Read The Docs [online verfügbar](https://readthedocs.org/projects/accessibility-club-grundlagen-barrierefreier-web-programmierung/).
