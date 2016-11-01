@@ -1,3 +1,8 @@
+# Responsive Design
+
+* Content Breakpoints („Tweakpoints“)
+* In relativen Maßeinheiten definieren, damit Abhängig von Schriftgrößen (`em`)
+
 # Visually Hidden
 
 ```css

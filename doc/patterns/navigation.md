@@ -7,3 +7,7 @@
 
 * Navigation per Überschriftenstruktur
 * Navigation per Landmarks
+
+**Links**
+
+* [NVDA Tastaturkürzel](http://webaim.org/resources/shortcuts/nvda)

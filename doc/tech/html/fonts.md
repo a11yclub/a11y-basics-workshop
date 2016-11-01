@@ -7,6 +7,10 @@
 * Vermeidung starker Irritationen: Wahl eine Ersatz-Systemfonts im Font-Stack, dessen Metriken dem endgültigen Font nahe kommen
 * Divere Lösungen *TODO: Beispiel*
 
+**Links**
+
+* [https://www.filamentgroup.com/lab/font-events.html](https://www.filamentgroup.com/lab/font-events.html) (Filament Group)
+
 ## Schriftgröße
 
 * Standardgröße 16px (= 100%)

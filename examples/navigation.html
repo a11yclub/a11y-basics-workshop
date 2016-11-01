@@ -9,6 +9,10 @@
         <!-- Viewport-Definition mit zulässigem Pinch-To-Zoom -->
         <meta name="viewport" content="width=device-width, initialscale=1.0">
 
+        <!-- Nicht-blockierendes Laden von Schriftarten -->
+        <link rel="stylesheet" href="fonts.css" media="none" onload="if(media!='all')media='all'">
+        <noscript><link rel="stylesheet" href="fonts.css"></noscript>
+
         <!-- Nicht blockierendes Stylesheet -->
         <link rel="stylesheet" href="main.css" media="none" onload="if(media!='all')media='all'">
         <noscript><link rel="stylesheet" href="main.css"></noscript>
@@ -17,6 +21,10 @@
         <title>Grundlagen barrierefreie Web-Programmierung | Accessibility Club</title>
     </head>
     <body>
+
+        <!-- Skip link -->
+        <a href="#main">skip to main content</a>
+
         <!-- Kopfbereich und Navigation ... -->
 
         <!-- Hauptinhalt des Dokuments -->
