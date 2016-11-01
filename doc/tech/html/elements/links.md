@@ -1,8 +1,9 @@
 ## Links
 
-* Eindeutiger, beschreibender Link-Inhalt, so dass das Link auch ohne Kontext bedeutungsvoll ist
+* Eindeutiger, beschreibender Link-Inhalt, so dass das Link auch ohne Kontext bedeutungsvoll ist (Link-Listen zur Navigation per Screenreader)
 	* Möglichkeit: `<a href="...">Buy <span class="visually-hidden">Awesome T-Shirt</span> Now</a>`
 	* Positiver SEO-Effekt, wenn der Link-Inhalt dem `<title>` der verlinkten Seite entspricht (hohe Relevanz)
+* Links: Mehrere Links [ohne]() [sinnvollen]() [Inhalt]() sind ein Antipattern
 * Prüfen, wann Block-Level-Links angebracht sind
 	* Vergrößern die klickbare Fläche
 	* Verhindert jedoch genestete Links

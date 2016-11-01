@@ -15,7 +15,7 @@ Die Grundeigenschaften eines Dokuments werden in den Bereichen außerhalb des `<
 
 Aufbau, Gliederung und inhaltliche Bedeutung eines Dokuments werden mittels verschiedener Elemente des HTML-Vokabulars realisiert:
 
-* [→ Abschnitte](html/elements/sectioning.md)
+* [→ Abschnitte](html/elements/sections.md)
 * [→ Überschriften](html/elements/headings.md)
 * [→ Bilder](html/elements/images.md)
 * [→ Listen](html/elements/lists.md)
