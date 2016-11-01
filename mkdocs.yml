@@ -6,17 +6,29 @@ docs_dir: doc
 pages:
 - Einstieg: 'index.md'
 - Technik:
+  - Grundlagen: 'tech.md'
   - HTML:
     - Grundlagen: 'tech/html.md'
     - Dokument: 'tech/html/document.md'
+    - Schriften: 'tech/html/fonts.md'
+    - Elemente:
+      - Struktur: 'tech/html/elements/sectioning.md'
+      - Überschriften: 'tech/html/elements/headings.md'
+      - Bilder: 'tech/html/elements/images.md'
+      - Listen: 'tech/html/elements/lists.md'
+      - Links: 'tech/html/elements/links.md'
+      - Buttons: 'tech/html/elements/buttons.md'
+      - Formulare: 'tech/html/elements/forms.md'
   - CSS: 'tech/css.md'
   - JavaScript: 'tech/javascript.md'
   - WAI-ARIA: 'tech/wai-aria.md'
 - Inhalt:
+  - Grundlagen: 'content.md'
   - Text: 'content/text.md'
   - Bilder: 'content/images.md'
   - Video / Audio: 'content/video-audio.md'
 - Verfahren:
+  - Grundlagen: 'patterns.md'
   - Navigation: 'patterns/navigation.md'
   - WAI / ARIA: 'patterns/wai-aria.md'
   - SERPS: 'patterns/seo.md'
