@@ -6,7 +6,8 @@ docs_dir: doc
 pages:
 - Einstieg: 'index.md'
 - Technik:
-  - HTML: 'tech/html.md'
+  - HTML:
+    - Grundlagen: 'tech/html.md'
     - Dokument: 'tech/html/document.md'
   - CSS: 'tech/css.md'
   - JavaScript: 'tech/javascript.md'
