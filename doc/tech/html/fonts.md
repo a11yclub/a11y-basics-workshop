@@ -23,11 +23,13 @@
 
 * Standardgröße 16px (= 100%)
 * Schriftgrößen stets nur relativ angeben, da sonst die benutzerdefinierten Voreinstellungen ausgehebelt werden:
-    ```css
-    html {
-        font-size: 100%;
-    }
-    ```
+
+```css
+html {
+    font-size: 100%;
+}
+```
+
 * Auch möglich: Angabe in Viewport-Einheiten `font-size: calc(1em + 1vw)`
 * `margin` und `padding` von Texten sollten sich proportional zum Text verändern → Angabe in den schriftartbezogenen Maßeinheiten `em` und `rem`
 * `line-height` sollte als Fließkommazahl angegeben werden und bezieht sich dann ebenfalls auf die aktuelle Schriftgröße
