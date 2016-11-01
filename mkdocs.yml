@@ -1,0 +1,7 @@
+site_name: a11yclub/a11y-basics-workshop
+site_description: Grundlagen barrierefreier Web-Programmierung
+site_author: Joschi Kuphal
+repo_url: https://github.com/a11yclub/a11y-basics-workshop
+docs_dir: doc
+pages:
+- Übersicht: 'index.md'
