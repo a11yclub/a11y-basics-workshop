@@ -1,18 +1,39 @@
+# Relevante Komponenten
+
+* [→ Technik](tech.md) (HTML, CSS, JavaScript, WAI-ARIA)
+* [→ Inhalte](content.md) (Texte, Bilder, Video / Audio)
+* [→ Verfahren](patterns.md) (Patterns)
+
 # Progressive Enhancement
 
-* JavaScript als Aufwertung der Seite, nicht als Voraussetzung
-* Skripte nicht-blockierend am Ende des Dokuments laden
+* „Start small, grow big“
+* Orientierung am schwächsten Glied (= leistungsärmster Client,
+  schlechteste Bedingungen, etc.)
+* Zurüsten von Leistungsmerkmalen, wenn sie zur Verfügung stehen
+* HTML als solide, „unverwüstliche“ Grundlage
+* CSS als fehlertolerante „Schmuckschicht“
+* JavaScript als interaktive Aufwertung, nicht als
+  Voraussetzung
 
-# Was ist der Accessibility Tree?
+**Links**
 
-# Relevante Technologien
+* https://de.wikipedia.org/wiki/Progressive_Verbesserung
+* http://alistapart.com/article/understandingprogressiveenhancement
+  (Aaaron Gustafson)
+* https://adactio.com/journal/7706 (Jeremy Keith)
 
-[→ Technik](tech.md)
+# Accessibility Tree
 
-# Relevante Inhalte
+* kein spezifizierter Standard
+* Parallelstruktur zum DOM Tree, die sich aus UI-Objekten des Clients und aus DOM-Objekten ableitet
+* für jedes DOM-Element, das assistiven Technologien gegenüber exponiert werden soll, existiert ein „Accessible Object“ im Accessibility Tree
+* direkte Schnittstelle zum Betriebssystem
+* aus Web-Perspektive: Beeinflussung des Accessibility Tree ausschließlich passiv über das DOM (durch HTML, ARIA und JavaScript), jedoch keine direkte Schnittstelle
+* Darstellung im Chrome: [chrome://accessibility](chrome://accessibility)
 
-[→ Inhalte](content.md)
+**Links**
 
-# Nützliche Verfahren
-
-[→ Verfahren](patterns.md)
+* https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/
+* http://whatsock.com/training/
+* http://www.barrierefreies-webdesign.de/knowhow/msaa/tools.html
+* https://egghead.io/lessons/html-5-what-is-the-accessibility-tree
