@@ -4,4 +4,18 @@ site_author: Joschi Kuphal
 repo_url: https://github.com/a11yclub/a11y-basics-workshop
 docs_dir: doc
 pages:
-- Übersicht: 'index.md'
+- Einstieg: 'index.md'
+- Technik
+  - HTML: 'tech/html.md'
+    - Dokument: 'tech/html/document.md'
+  - CSS: 'tech/css.md'
+  - JavaScript: 'tech/javascript.md'
+  - WAI-ARIA: 'tech/wai-aria.md'
+- Inhalt
+  - Text: 'content/text.md'
+  - Bilder: 'content/images.md'
+  - Video / Audio: 'content/video-audio.md'
+- Verfahren
+  - Navigation: 'patterns/navigation.md'
+  - WAI / ARIA: 'patterns/wai-aria.md'
+  - SERPS: 'patterns/serps.md'

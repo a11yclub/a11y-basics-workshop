@@ -1,0 +1,1 @@
+Das HTML-Dokument stellt die Rahmenkonstruktion einer barrierefreien Seite. Einige wichtige Merkmale sind bereits in der Grundstruktur des Dokuments verankert.  
