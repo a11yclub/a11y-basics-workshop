@@ -2,8 +2,8 @@
 
 > ist die fünfte Fassung der **Hypertext Markup Language** (engl. für Hypertext-Auszeichnungssprache), einer Computersprache zur Auszeichnung und Vernetzung von Texten und anderen Inhalten elektronischer Dokumente, vorwiegend im World Wide Web. [(Wikipedia)](https://de.wikipedia.org/wiki/HTML5)
 
-* W3C: https://www.w3.org/TR/html5
-* WHATWG: https://html.spec.whatwg.org
+* W3C: [https://www.w3.org/TR/html5](https://www.w3.org/TR/html5)
+* WHATWG: [https://html.spec.whatwg.org](https://html.spec.whatwg.org)
 
 HTML5 ist als "lebendiger Standard" zu sehen, der sich laufend verändert und weiterentwickelt wird. HTML bildet die **strukturelle Grundlage** jeder (barrierefreien) Seite.
 

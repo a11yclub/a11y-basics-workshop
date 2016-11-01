@@ -17,10 +17,10 @@
 
 **Links**
 
-* https://de.wikipedia.org/wiki/Progressive_Verbesserung
-* http://alistapart.com/article/understandingprogressiveenhancement
+* [https://de.wikipedia.org/wiki/Progressive_Verbesserung](https://de.wikipedia.org/wiki/Progressive_Verbesserung)
+* [http://alistapart.com/article/understandingprogressiveenhancement](http://alistapart.com/article/understandingprogressiveenhancement)
   (Aaaron Gustafson)
-* https://adactio.com/journal/7706 (Jeremy Keith)
+* [https://adactio.com/journal/7706](https://adactio.com/journal/7706) (Jeremy Keith)
 
 # Accessibility Tree
 
@@ -33,7 +33,7 @@
 
 **Links**
 
-* https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/
-* http://whatsock.com/training/
-* http://www.barrierefreies-webdesign.de/knowhow/msaa/tools.html
-* https://egghead.io/lessons/html-5-what-is-the-accessibility-tree
+* [https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/](https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/)
+* [http://whatsock.com/training/](http://whatsock.com/training/)
+* [http://www.barrierefreies-webdesign.de/knowhow/msaa/tools.html](http://www.barrierefreies-webdesign.de/knowhow/msaa/tools.html)
+* [https://egghead.io/lessons/html-5-what-is-the-accessibility-tree](https://egghead.io/lessons/html-5-what-is-the-accessibility-tree)

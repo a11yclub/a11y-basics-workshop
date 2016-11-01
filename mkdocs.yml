@@ -12,7 +12,7 @@ pages:
     - Dokument: 'tech/html/document.md'
     - Schriften: 'tech/html/fonts.md'
     - Elemente:
-      - Struktur: 'tech/html/elements/sectioning.md'
+      - Abschnitte: 'tech/html/elements/sectioning.md'
       - Überschriften: 'tech/html/elements/headings.md'
       - Bilder: 'tech/html/elements/images.md'
       - Listen: 'tech/html/elements/lists.md'
