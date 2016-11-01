@@ -7,4 +7,4 @@
 
 ___
 
-Die Workshop-Dokumentation ist über Read The Docs [online verfügbar](http://accessibility-club-grundlagen-barrierefreier-web-programmierung.readthedocs.io).
+Die Workshop-Dokumentation ist über Read The Docs [online verfügbar](http://basics.workshop.accessibility-club.org).
