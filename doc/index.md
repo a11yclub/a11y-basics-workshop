@@ -1,7 +1,6 @@
-# Grundlagen barrierefreier Web-Programmierung
-> Übersicht
+# Einstieg
 
-[Grundsätzliche Dokumentstruktur](https://raw.githubusercontent.com/a11yclub/a11y-basics-workshop/master/examples/document.html)
+[Grundsätzliche Dokumentstruktur](https://cdn.rawgit.com/a11yclub/a11y-basics-workshop/master/examples/document.html)
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -9,8 +8,13 @@
         <meta charset="UTF-8">
         <title>Title</title>
     </head>
+    
     <body>
 
+        <!-- Hauptinhalt des Dokuments -->
+        <main id="main" role="main">
+            
+        </main>
     </body>
 </html>
 ```
