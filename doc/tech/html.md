@@ -26,4 +26,4 @@ Aufbau, Gliederung und inhaltliche Bedeutung eines Dokuments werden mittels vers
 # Nützliches Wissen
 
 * `hidden`-Attribut in HTML5
-    * macht alle untergeordneten Element "unfocusable", sie sind also auch per Keyboard nicht mehr anzuspringen
+    * macht alle untergeordneten Element „unfocusable“, sie sind also auch per Keyboard nicht mehr anzuspringen

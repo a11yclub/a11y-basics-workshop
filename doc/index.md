@@ -37,3 +37,10 @@
 * [http://whatsock.com/training/](http://whatsock.com/training/)
 * [http://www.barrierefreies-webdesign.de/knowhow/msaa/tools.html](http://www.barrierefreies-webdesign.de/knowhow/msaa/tools.html)
 * [https://egghead.io/lessons/html-5-what-is-the-accessibility-tree](https://egghead.io/lessons/html-5-what-is-the-accessibility-tree)
+
+# Links
+
+* [WebAIM](http://webaim.org)
+* [Barrierefreies Webdesign](http://www.barrierefreies-webdesign.de/) (Jan Hellbusch)
+* [Barrierefreie Informationskultur](http://www.barrierefreie-informationskultur.de/) (Kerstin Probiesch)
+* [Marco's Accessibility Blog](https://www.marcozehe.de) (Marco Zehe)

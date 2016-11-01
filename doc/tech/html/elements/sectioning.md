@@ -1,31 +1,22 @@
-# `<main>`-Element
+# Abschnitte („Sectioning Elements“)
 
-* Jedes HTML-Dokument sollte eines haben
-* In Kombination mit einem Skip-Link: `id`-Attribut
-* `role="main"`, wenn ältere Browser / Screenreader unterstützt werden sollen
+* sind für die grundlegende Inhaltsstruktur verantwortlich
+* entsprechen ARIA-Seitenregionen und können daher von Screenreadern zur Navigation verwendet werden
+    * `<article>` ≙ ARIA `role="article"`
+    * `<section>` ≙ ARIA `role="region"`
+    * `<aside>` ≙ ARIA `role="complementary"`
+    * `<nav>` ≙ ARIA `role="navigation"`
+* haben stets eine Überschrift (im Zweifelsfall implizit „unbenannt“)
 
-```html
-<main id="main" role="main">
-	...
-</main>
-```
+Per Spezifikation nicht „sectioning“ sind:
 
-# "Sectioning elements"
-
-http://blog.teamtreehouse.com/use-html5-sectioning-elements
-https://www.w3.org/TR/html5/dom.html#sectioning-content-0
-http://vanseodesign.com/web-design/html5-sectioning-elements/
-
-* `<article>` entspricht `role="article"`
-* `<section>` entspricht `role="region"`
-* `<aside>` entspricht `role="complementary"`
-* `<nav>` entspricht `role="navigation"`
-
-Unklar, ob ebenfalls "sectioning"
 * `<main>`
 * `<footer>`
 * `<header>`
 
+**Links**
 
-* "Sectioning elements" haben streng genommen stets eine Überschrift
-* Ist keine Überschrift explizit angegeben, werden sie intern als "unbenannt" betrachtet
+* [https://www.w3.org/TR/html5/dom.html#sectioning-content-0](https://www.w3.org/TR/html5/dom.html#sectioning-content-0)
+* [http://blog.teamtreehouse.com/use-html5-sectioning-elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
+* [http://vanseodesign.com/web-design/html5-sectioning-elements/](http://vanseodesign.com/web-design/html5-sectioning-elements/)
+* [http://www.barrierefreies-webdesign.de/knowhow/landmark-roles/](http://www.barrierefreies-webdesign.de/knowhow/landmark-roles/)

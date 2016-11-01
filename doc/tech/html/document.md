@@ -33,9 +33,12 @@ Die Grundstruktur eines HTML-Dokuments sollte stets bestimmte Merkmale aufweisen
 
 # `<main>`-Element
 
+* jedes HTML-Dokument sollte eines haben
 * erlaubt die Markierung des zentralen Inhalts (websitespezifisch)
 * ideal: Nach Kopfbereich und Navigation
 * eindeutig je Dokument → kann von Screenreadern direkt angesprungen werden (JAWS: `Q`-Taste)
+* In Kombination mit einem Skip-Link: `id`-Attribut
+* ARIA `role="main"`, wenn ältere Browser / Screenreader unterstützt werden sollen
 
 # Externe Resourcen
 
