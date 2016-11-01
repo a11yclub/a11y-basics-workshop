@@ -5,17 +5,17 @@ repo_url: https://github.com/a11yclub/a11y-basics-workshop
 docs_dir: doc
 pages:
 - Einstieg: 'index.md'
-- Technik
+- Technik:
   - HTML: 'tech/html.md'
     - Dokument: 'tech/html/document.md'
   - CSS: 'tech/css.md'
   - JavaScript: 'tech/javascript.md'
   - WAI-ARIA: 'tech/wai-aria.md'
-- Inhalt
+- Inhalt:
   - Text: 'content/text.md'
   - Bilder: 'content/images.md'
   - Video / Audio: 'content/video-audio.md'
-- Verfahren
+- Verfahren:
   - Navigation: 'patterns/navigation.md'
   - WAI / ARIA: 'patterns/wai-aria.md'
   - SERPS: 'patterns/serps.md'
