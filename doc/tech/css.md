@@ -1,3 +1,9 @@
+Allgemein
+
+* CSS als „visuelles Enhancement“ der HTML-Basis begreifen
+* visuelle Gestaltung darf keine Grundvoraussetzung für die Benutzbarkeit sein
+* Lackmustest: CSS deaktivieren und prüfen, ob die Website noch benutzbar ist
+
 # Responsive Design
 
 * Layout sollte möglichst viele Ausgabeplattformen untertützen
