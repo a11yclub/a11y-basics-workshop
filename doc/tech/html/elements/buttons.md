@@ -15,7 +15,7 @@
 * nicht zu klein, damit auf Touchscreen-Geräten nutzbar
     * insbesondere bei dicht aneinander liegenden _Touch Targets_
     * Apple empfiehlt 44 x 44 Pixel, Google 48 x 48 Pixel Mindestgröße
-* idesl: Abstand zwischen allen _Touch Targets_
+* ideal: Abstand zwischen allen _Touch Targets_
 * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) moniert zu kleine und zu dicht liegende Links
 
 # Icon-Buttons
