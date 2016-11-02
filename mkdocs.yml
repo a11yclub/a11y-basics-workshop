@@ -30,5 +30,5 @@ pages:
 - Verfahren:
   - Grundlagen: 'patterns.md'
   - Navigation: 'patterns/navigation.md'
-  - WAI / ARIA: 'patterns/wai-aria.md'
   - SERPS: 'patterns/seo.md'
+  - Testing: 'patterns/testing.md'
