@@ -22,8 +22,3 @@ Aufbau, Gliederung und inhaltliche Bedeutung eines Dokuments werden mittels vers
 * [→ Links](html/elements/links.md)
 * [→ Buttons](html/elements/buttons.md)
 * [→ Formulare](html/elements/forms.md)
-
-# Nützliches Wissen
-
-* `hidden`-Attribut in HTML5
-    * macht alle untergeordneten Element „unfocusable“, sie sind also auch per Keyboard nicht mehr anzuspringen

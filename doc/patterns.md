@@ -15,3 +15,9 @@ ARIA bietet viele Funktionalitäten, die auch jenseits einer barrierefreien Umse
 Barrierefreie Websites haben bereits von Haus aus ein gewisses Maß an Suchmaschinenoptimierung (SEO) in sich. Trotzdem gibt es zusätzliche Techniken, um die Darstellung auf Suchmaschinenergebnisseiten (SERPS) zu optimieren.
 
 [→ Verfahren › SEO](patterns/seo.md)
+
+# Testing
+
+Es gibt es verschiedene Verfahren, um Websites auch auf Barrierefreiheit zu testen.
+
+[→ Verfahren › Testing](patterns/testing.md)
