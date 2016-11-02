@@ -21,7 +21,7 @@ Ich mache <a href="...">viele</a> <a href="...">tolle</a> <a href="...">Sachen</
     * nicht nur rein farbliche Unterscheidung (Farbfehlsichtigkeit)
     * keine Simulation eines `<buttons>`
 * sinnvolle gestalterische Differenzierung: Link ↔ Aktion ↔ Button
-* auch sinnvoll: Einheitliche Ästhetik für alle interaktiven Elemente (z.B. Blau ist gelernte Konvention für Interaktion)
+* auch sinnvoll: Einheitliche Ästhetik für alle interaktiven Elemente (z.B. Blau als gelernte Konvention für Interaktion)
 
 # Typ
 
