@@ -5,6 +5,7 @@
     * `<ul>`, wenn die Reihenfolge theoretisch keine Rolle spielt
     * `<dl>`, wenn es Paare aus Bezeichnern und Wert gibt (und eine `<table>` semantisch falsch wäre)
 * Listenpunkte dürfen durchaus komplexe Strukturen enthalten (z.B. Produktliste)
+* Vorteil für Screenreader: Anzahl der Listenpunkte wird vorab angesagt (sehr hilfreich z.B. auch in Menüs)
 
 ```html
 <li>

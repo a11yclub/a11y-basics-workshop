@@ -29,7 +29,7 @@ Die Grundstruktur eines HTML-Dokuments sollte stets bestimmte Merkmale aufweisen
 * liefert den *Accessible Name* eines Dokuments (auch SVG-Dokumente)
 * wird vom Screenreader als erstes verlesen
 * ideal: Inhaltsbeschreibung + Autorenangabe
-    * z.b. auch „Suche auf test.de: Ergebnisse für Suche nach xyz“
+    * z.B. auch „Suche auf test.de: Ergebnisse für Suche nach xyz“
 
 # `<main>`-Element
 

@@ -1,5 +1,6 @@
 # Inhalt
 
+* Verknüpfungen („Links“) referenzieren andere / ferne Ressourcen; die grundlegende Erwartungshaltung ist also, dass Links „irgendwohin führen“
 * eindeutiger, beschreibender Link-Inhalt, so dass er auch ohne Kontext bedeutungsvoll ist (Link-Listen zur Navigation per Screenreader)
 * ggf. visuell unsichtbare Ergänzung, um den Kontext herzustellen
 
@@ -8,7 +9,7 @@
 ```
 
 * positiver SEO-Effekt, wenn der Link-Inhalt dem `<title>` der verlinkten Seite entspricht (hohe Relevanz)
-* in Mode, aber Anti-Pattern: Links ohne sinnvollen Inhalt
+* gern praktiziert, aber **Anti-Pattern**: Links ohne sinnvollen Inhalt
 
 ```html
 Ich mache <a href="...">viele</a> <a href="...">tolle</a> <a href="...">Sachen</a>!
@@ -20,7 +21,7 @@ Ich mache <a href="...">viele</a> <a href="...">tolle</a> <a href="...">Sachen</
     * unterschiedliche Stile im Normal- und Hover-Zustand
     * nicht nur rein farbliche Unterscheidung (Farbfehlsichtigkeit)
     * keine Simulation eines `<buttons>`
-* sinnvolle gestalterische Differenzierung: Link ↔ Aktion ↔ Button
+* sinnvolle gestalterische Differenzierung, z.B. Link ↔ Aktion ↔ Button
 * auch sinnvoll: Einheitliche Ästhetik für alle interaktiven Elemente (z.B. Blau als gelernte Konvention für Interaktion)
 
 # Typ

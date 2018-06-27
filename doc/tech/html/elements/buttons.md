@@ -1,16 +1,17 @@
 # Allgemein
 
-* Buttons sind in erster Linie Formularelemente(!)
-* sind als Auslöser außerhalb von Formularen wo immer möglich zu vermeiden (z.B. Off-Canvas-Menü)
+* Schaltflächen („Buttons“) sind in erster Linie Formularelemente(!); die grundlegende Erwartungshaltung ist also, dass „etwas passiert“ (Versand eines Formulars, Ein- / Ausblenden von Elementen)
 
 # Gestaltung
 
 * sollten wie übliche Buttons aussehen (UX-Problematik)
+* Klar erkennbare und unterscheidbare Zustände
+  ![Button-Zustände](https://29comwzoq712ml5vj5gf479x-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/button-states-hover_expanded.png)
 * ideal: Einheitliche Ästhetik für alle interaktiven Elemente
     * z.B. Blau als gelernte Konvention für Interaktion
     * mögliche gestalterische Differenzierung
     	* Link (unterstrichen)
-    	* Aktion (Ghost Button)
+    	* Aktion („Ghost Buttons“)
     	* Button (Formular)
 * nicht zu klein, damit auf Touchscreen-Geräten nutzbar
     * insbesondere bei dicht aneinander liegenden _Touch Targets_
@@ -45,3 +46,7 @@
 
 * `aria-pressed`, um Status an den Accessibility Tree zu melden
 * `aria-expanded` bei kollabierbaren Strukturen (lässt den Screenreader ausdrücklich `"expanded"` oder `"collapsed"` vorlesen)
+
+**Links**
+
+* [Designing Button States](https://cloudfour.com/thinks/designing-button-states/) von Tyler Sticka

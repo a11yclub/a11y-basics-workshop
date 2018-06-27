@@ -29,7 +29,8 @@
 * für jedes DOM-Element, das assistiven Technologien gegenüber exponiert werden soll, existiert ein „Accessible Object“ im Accessibility Tree
 * direkte Schnittstelle zum Betriebssystem
 * aus Web-Perspektive: Beeinflussung des Accessibility Tree ausschließlich passiv über das DOM (durch HTML, ARIA und JavaScript), jedoch keine direkte Schnittstelle
-* Darstellung im Chrome: [chrome://accessibility](chrome://accessibility)
+* Darstellung im Chrome: [chrome://accessibility](chrome://accessibility) + Accessibility Tab in den Developer Tools
+* Darstellung im Firefox ([seit v61.0](https://www.marcozehe.de/2018/04/11/introducing-the-accessibility-inspector-in-the-firefox-developer-tools/)): Accessibility Inspector in den Developer Tools (muss über die Einstellungen aktiviert werden)
 
 **Links**
 
@@ -38,9 +39,11 @@
 * [http://www.barrierefreies-webdesign.de/knowhow/msaa/tools.html](http://www.barrierefreies-webdesign.de/knowhow/msaa/tools.html)
 * [https://egghead.io/lessons/html-5-what-is-the-accessibility-tree](https://egghead.io/lessons/html-5-what-is-the-accessibility-tree)
 
-# Links
+# Allgemeine Links
 
 * [WebAIM](http://webaim.org)
 * [Barrierefreies Webdesign](http://www.barrierefreies-webdesign.de/) (Jan Hellbusch)
 * [Barrierefreie Informationskultur](http://www.barrierefreie-informationskultur.de/) (Kerstin Probiesch)
 * [Marco's Accessibility Blog](https://www.marcozehe.de) (Marco Zehe)
+* Buch: [Inclusive Design Patterns](https://www.smashingmagazine.com/printed-books/inclusive-front-end-design-patterns/) (Heydon Pickering)
+* Buch: [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) (Laura Kalbag)

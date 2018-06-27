@@ -33,9 +33,12 @@
 
 # Naviation per Screenreader
 
-* Navigation per Überschriftenstruktur
+* Navigation per Überschriftenstruktur bzw. -liste
 * Navigation per Landmarks
+* Navigation per Link-Liste
 
 **Links**
 
-* [NVDA Tastaturkürzel](http://webaim.org/resources/shortcuts/nvda)
+* [Responsive Accessible Dropdown Navigation](http://a11y.mhis.de/accessible-nav/) (Marc Haunschild)
+* [JAWS Tastaturkürzel](https://webaim.org/resources/shortcuts/jaws)
+* [NVDA Tastaturkürzel](https://webaim.org/resources/shortcuts/nvda)

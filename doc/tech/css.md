@@ -1,4 +1,4 @@
-Allgemein
+# Allgemein
 
 * CSS als „visuelles Enhancement“ der HTML-Basis begreifen
 * visuelle Gestaltung darf keine Grundvoraussetzung für die Benutzbarkeit sein
@@ -16,10 +16,10 @@ Allgemein
 * `hidden`-Attribut (HTML5)
     * verbirgt untergeordnete Inhalte visuell und auch vor Screenreadern
     * macht alle untergeordneten Element „unfocusable“, sie sind also auch per Keyboard nicht mehr anzuspringen
-    * nicht konsistent implementiert
+    * lange nicht konsistent implementiert (immer noch problematisch?)
 * `aria-hidden="true"` verbirgt Inhalte nur vor Screenreadern
 
-**Beispiel 1: Vollständiges visuelles Verbergen eines Elements**
+**Beispiel 1: Visuelles Verbergen eines Elements** (aber sichtbar für Screenreader)
 
 ```css
 .visually-hidden {

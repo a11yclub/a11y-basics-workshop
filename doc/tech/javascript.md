@@ -1,3 +1,5 @@
+# Allgemein
+
 * JavaScript nur als interaktive Aufwertung, nicht als Betriebsvoraussetzung
 * mögliche Ursachen für fehlenden JavaScript-Support
     * Skript hat Fehler (auch vorangehendes Drittanbieter-Skript)
@@ -23,3 +25,4 @@
 **Links**
 
 * [loadJS](https://github.com/filamentgroup/loadJS) (Filament Group)
+* [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html)
