@@ -35,3 +35,7 @@ html {
 * Auch möglich: Angabe in Viewport-Einheiten `font-size: calc(1em + 1vw)`
 * `margin` und `padding` von Texten sollten sich proportional zum Text verändern → Angabe in den schriftartbezogenen Maßeinheiten `em` und `rem`
 * `line-height` sollte relativ als Fließkommazahl angegeben werden und bezieht sich dann ebenfalls auf die aktuelle Schriftgröße
+
+**Links**
+
+* [leserlich.info — Schritte zu einem inklusiven Kommunikations­design](http://www.leserlich.info/)
