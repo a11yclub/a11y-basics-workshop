@@ -1,5 +1,5 @@
 # Barrierefreiheit im Web
-<img src="https://cdn.rawgit.com/a11yclub/a11y-teaser-event/master/public/img/a11yclub-logo.svg" alt="Accessibility Club Logo" align="right"/>
+<img src="https://cdn.jsdelivr.net/gh/a11yclub/a11y-teaser-event@master/public/img/a11yclub-logo.svg" alt="Accessibility Club Logo" align="right"/>
 
 ### Grundlagen-Workshop für Web-Entwickler
 
